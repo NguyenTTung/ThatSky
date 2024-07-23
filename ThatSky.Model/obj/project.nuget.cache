@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tfw5onu9fegkTQIWWKCVL+UO/mjDp/MgTr2dFOOT2lsUzQKblF6QkuKTmANgAVaSxokq5hYl0OHVsCJw9+FHBg==",
+  "dgSpecHash": "PCmhAN/ajSbD/KB7Y6cZIGVQbP+vFtzJrai/e10pexAeJfaUkWRF1wtXmyqcqw/oGY4fw7o61V2wDbonM1FxkQ==",
   "success": true,
-  "projectFilePath": "D:\\Ky6\\C#5\\DA\\ThatSkyShop\\ThatSky.Model\\ThatSky.Model.csproj",
+  "projectFilePath": "D:\\t\\ThatSky\\ThatSky.Model\\ThatSky.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
